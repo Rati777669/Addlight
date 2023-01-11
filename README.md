@@ -32,7 +32,7 @@ React.js is used in making it fast and categorical.
 
 ### Footer
 
-![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(59).png)
+![]()
 
 
 # Getting Started with Create React App
