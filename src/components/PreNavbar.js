@@ -9,7 +9,7 @@ const PreNavbar = () => {
     <ul>
     <li className='ic'>{cartIcon}</li>
       <li> <a href="abc.com">Cart</a></li><li><span>|</span></li>
-      <li> <a href="abc.com">Sign Un</a></li><li><span>|</span></li>
+      <li> <a href="abc.com">Sign Up</a></li><li><span>|</span></li>
       <li> <a href="abc.com">Sign In</a></li>
     
  
