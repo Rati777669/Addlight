@@ -8,8 +8,8 @@ const PreNavbar = () => {
   <div className='prenav'>
     <ul>
     <li className='ic'>{cartIcon}</li>
-      <li> <a href="abc.com">Cart</a></li><li><span>|</span></li>
-      <li> <a href="abc.com">Sign Up</a></li><li><span>|</span></li>
+      <li> <a href="abc.com">Cart</a></li><li></li>
+      <li> <a href="abc.com">Sign Up</a></li><li></li>
       <li> <a href="abc.com">Sign In</a></li>
     
  

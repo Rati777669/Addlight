@@ -34,11 +34,7 @@ const Footer = ({footer}) => {
                       ))}
 
                   </div>
-                  <div>
-               
-                  <p>Chat with our bot now</p>
-                   <button className='chatbot'>Chat Now</button>
-                  </div>
+                 
                   
                   </div>
        <div className="footerBorder">
