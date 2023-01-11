@@ -1,3 +1,40 @@
+# Responsive design of e-commerce website
+It is built with the help of HTML, CSS and Javascript.
+React.js is used in making it fast and categorical.
+
+### Home Page 
+
+#### A beautiful carousel is used at the home page
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(52).png)
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(60).png)
+
+### Categories
+
+#### User can see the different categories very quickly and this section is helpful in providing a good experience to user
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(61).png)
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(62).png)
+
+### Popular Products
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(54).png)
+
+### Rewards and Offers
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(53).png)
+
+### Special Products
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(58).png)
+
+### Footer
+
+![](https://github.com/Rati777669/Addlight/blob/main/Screenshot%20(63).png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
