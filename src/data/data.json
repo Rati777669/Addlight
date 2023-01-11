@@ -1,0 +1,285 @@
+{   
+"start":["https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+,"https://images.unsplash.com/photo-1481151500463-1fa2dd2d5dbe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGZ1cm5pdHVyZXxlbnwwfDB8MHxibGFja3w%3D&auto=format&fit=crop&w=500&q=60",
+"https://images.unsplash.com/photo-1419640303358-44f0d27f48e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1985&q=80"],
+
+"offer":[
+     {     "key":1,
+          "image":"./images/oriento-l0ah3UBLppo-unsplash.jpg",
+      "url": "https://xiaomi.giveindia.org/",
+      "description":"Type 75 Floor Lamp: Margaret Howell Edition",
+      "title":"Ferm Living"
+     },
+     {     "key":2,
+          "image":"./images/chuttersnap-11Jrs2ZY_cA-unsplash.jpg",
+          "url": "https://xiaomi.giveindia.org/",
+          "description":"Pixo Plus Task Light with Wireless Charging",
+          "title":"Pablo Designs"
+     },
+     {     "key":3,
+          "image":"./images/anna-cicognani-RRl4UPoC-8E-unsplash.jpg",
+          "url": "https://xiaomi.giveindia.org/",
+          "description":"Flowerpot Portable Table Lamp: VP9",
+          "title":"DCW Editions"
+     }
+],
+"starprod":[
+     "./images/starprod/marcus-urbenz-AI_fE0UwqBk-unsplash.jpg",
+     "./images/starprod/i-m__prakhar-kont-AgU9-qsNc1Y-unsplash.jpg",
+     "./images/starprod/hifdzul-muhammad-siregar-F4cib3eJqT0-unsplash.jpg",
+     "./images/starprod/spacejoy-EPPbKZPN0rU-unsplash.jpg"
+],
+"decor" :[
+     {"image": "./images/decor/collov-home-design-Z5071-fNXOI-unsplash.jpg",
+          "price":"1000",
+          "name":"Swedish lamp",
+          "key":1
+     }   ,
+     {
+          "image":"./images/decor/designecologist-6kIhClasj3Q-unsplash.jpg",
+          "price":"1200",
+          "name":"Pendant lamp",
+          "key":2
+     }  ,
+     {
+          "image":"./images/decor/marilyn-huang-_LqrdRQlZ9I-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe",
+          "key":3
+     },
+     {
+          "image":"./images/decor/rumman-amin-zuE9jsaVHuA-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe",
+          "key":4
+     },
+     {
+          "image":"./images/decor/spacejoy-OlFHzNjg9kY-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe",
+          "key":5
+     },
+     {
+          "image":"./images/decor/virender-singh-GybmMi0QZV4-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe",
+          "key":6
+     }
+
+],
+"lighting":[
+     {"image": "../images/lighting/alexis-fauvet-LjZkcZnKB3Q-unsplash.jpg",
+          "price":"1000",
+          "name":"Swedish lamp"
+     }   ,
+     {
+          "image":"./images/lighting/federico-bottos-TuAtSs8peoM-unsplash.jpg",
+          "price":"1200",
+          "name":"Pendant lamp"
+     }  ,
+     {
+          "image":"./images/lighting/lucas-santos-_3b47luaG4o-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/lighting/priyanka-singh-8W4bZnWJP-0-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/lighting/yohanes-dicky-yuniar-j_MxsvGlTjg-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     }
+
+],
+"outdoor":[
+     
+     {"image": "./images/outdoor/alireza-ahmadi-IC7yUFliENE-unsplash.jpg",
+          "price":"1000",
+          "name":"Swedish lamp"
+     }   ,
+     {
+          "image":"./images/outdoor/cole-parrant-JEfsUt1fCfo-unsplash.jpg",
+          "price":"1200",
+          "name":"Pendant lamp"
+     }  ,
+     {
+          "image":"./images/outdoor/geoffrey-arduini-_flxtLvSPAs-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/outdoor/hannah-busing-VPnLLmvmA-k-unsplash.jpg",
+          "price":"800",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/outdoor/shaqyl-shamsudheen-sFdE0v5KOs4-unsplash.jpg",
+          "price":"1100",
+          "name":"Corky Crafe"
+     }
+
+],
+"brands":[
+     
+     {"image": "./images/brands/behzad-ghaffarian-nhWgZNV85LQ-unsplash.jpg",
+          "price":"1000",
+          "name":"Swedish lamp"
+     }   ,
+     {
+          "image":"./images/brands/kam-idris-hYb7kbu4x7E-unsplash.jpg",
+          "price":"1200",
+          "name":"Pendant lamp"
+     }  ,
+     {
+          "image":"./images/brands/spacejoy-MjvGoa_oRts-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/brands/spacejoy-TbWzzDaqgRE-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/brands/spacejoy-umAXneH4GhA-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/brands/spacejoy-YI2YkyaREHk-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     }
+
+],
+"tabletop":[
+     
+     {"image": "./images/tabletop/alexandra-gorn-NzsTFFB6Ng8-unsplash.jpg",
+          "price":"1000",
+          "name":"Swedish lamp"
+     }   ,
+     {
+          "image":"./images/tabletop/annie-spratt-uaaI_EYDoPs-unsplash.jpg",
+          "price":"1200",
+          "name":"Pendant lamp"
+     }  ,
+     {
+          "image":"./images/tabletop/ben-kolde-wiw9kVxFXnU-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/tabletop/clint-mckoy-727xRkA3t1s-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/tabletop/mikael-cho-ZMIrSYeDEsc-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     },
+     {
+          "image":"./images/tabletop/rohit-KZnfwqi-B0U-unsplash.jpg",
+          "price":"600",
+          "name":"Corky Crafe"
+     }
+
+],
+"videos":[
+     {     "key":1,
+          "image":"./images/oriento-l0ah3UBLppo-unsplash.jpg",
+      "title":"Ferm Living"
+     },
+     {     "key":2,
+          "image":"./images/chuttersnap-11Jrs2ZY_cA-unsplash.jpg",
+          "title":"Pablo Designs"
+     },
+     {     "key":3,
+          "image":"./images/anna-cicognani-RRl4UPoC-8E-unsplash.jpg",
+          "title":"DCW Editions"
+     }
+],
+"footer":
+     {
+       "about":[{
+            "name":"About Us",
+            "url":"https://xiaomi.giveindia.org/"
+       },
+       {
+            "name":"Culture",
+            "url":"https://xiaomi.giveindia.org/"
+       },
+       {
+            "name":"Trust center",
+            "url":"https://xiaomi.giveindia.org/"
+       },
+       {
+          "name":"Privacy Policy",
+          "url":"https://xiaomi.giveindia.org/"
+     }
+       ],
+       "contact":[
+          {
+               "name":"Email",
+               "url":"https://xiaomi.giveindia.org/"
+          },
+          {
+               "name":"Careers",
+               "url":"https://xiaomi.giveindia.org/"
+          },
+          {
+               "name":"Trust center",
+               "url":"https://xiaomi.giveindia.org/"
+          },
+          {
+               "name":"Address",
+               "url":"https://xiaomi.giveindia.org/"
+          }
+       ],
+       "support":[
+            {
+                 "name":"Online help",
+                 "url":"https://xiaomi.giveindia.org/"
+            },
+            {
+                 "name":"Customer Service",
+                 "url":"https://xiaomi.giveindia.org/"
+            },
+            {
+               "name":"Warranty",
+               "url":"https://xiaomi.giveindia.org/"
+          },
+          {
+               "name":"User Guide",
+               "url":"https://xiaomi.giveindia.org/"
+          }
+       ],
+       "community":[
+            {
+                 "name":"Community",
+                 "url":"https://xiaomi.giveindia.org/"
+            },
+            {
+               "name":"Forum",
+               "url":"https://xiaomi.giveindia.org/"
+          },
+          {
+               "name":"Chat",
+               "url":"https://xiaomi.giveindia.org/"
+          }
+
+       ],
+       "bot":[
+            {
+                 "name":"Chat with our Bot",
+                 "url":"https://xiaomi.giveindia.org/"
+            }
+       ]
+
+     }
+
+}
+     

@@ -1,0 +1,21 @@
+.menu
+{
+     display:flex;
+     justify-content:center;
+     align-items: center;
+}
+.menulist
+{
+     text-decoration: none;
+     padding:0.5vmax 0;
+     margin:1vmax;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color:rgb(75, 70, 70);
+}
+.menulist:hover
+{
+     border-bottom:1px solid orangered;
+     color:orangered;
+     text-decoration: none;
+
+}

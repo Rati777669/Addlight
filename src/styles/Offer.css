@@ -1,0 +1,16 @@
+.Objects
+{
+    
+     text-align: center;
+     border:2px solid black;
+     margin:0 2% 2% 2%;
+     height:350px;
+     width:400px;
+     padding-bottom: 1%;
+}
+.Objects img{
+     height:70%;
+     width:100%;
+     margin-bottom: 5%;
+}
+

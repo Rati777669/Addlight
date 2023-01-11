@@ -1,0 +1,114 @@
+.prefooter
+{
+     margin-top: 20vh;
+     background-color: white;
+}
+.tincards
+{
+     display:flex;
+     justify-content:center;
+     align-items: center;
+     flex-wrap: wrap;
+     border: 2px solid black;
+     color:rgba(66, 66, 66, 0.829);
+     cursor: pointer;
+}
+.tincards div{
+     margin-right:1.5%;
+     display:flex;
+     justify-content:space-between;
+     align-items: center;
+     flex-wrap: wrap;
+   
+     
+}
+.tincards div img{
+     height:200px;
+
+}
+.tincards> div:hover p{
+     color: rgb(19, 18, 18);
+     font-size: 1vmax;
+ }
+ .tincards svg{
+     transform: scale(2) translateY(-0.2vmax);
+     fill: rgba(37, 37, 37, 0.322);
+    margin: 2vmax;
+  
+  }
+.prefoot2
+{
+          display: grid;
+          height: 150px;
+          grid-template-columns: repeat(4,1fr); 
+          width:80%;
+          margin: auto;
+   
+}
+.prefoot2 > div > div > button{
+     border: none;
+     padding: 0.5vmax;
+     background-color: rgb(255, 255, 255);
+     outline: none;
+   }
+   .prefoot2 > div > p{
+     color: rgba(0, 0, 0, 0.842);
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size:1.2vmax;
+     margin: 0% ;
+   }
+   .prefoot2 > div > span{
+     color: rgba(51, 51, 51, 0.842);
+     width: 18vmax;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size:1vmax;
+   }
+.prefoot2 div:nth-child(1){
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: flex-start;
+     margin-left:2%;
+}
+
+  
+  
+   
+   .prefoot2  div:nth-child(2){
+     display: flex;
+     justify-content: flex-start;
+     align-items:center;
+    
+   }
+   .prefoot2 > div:nth-child(3) > p{
+     width: 14vmax;
+   }
+   
+   .prefoot2 > div:nth-child(3) > span{
+     width: 14vmax;
+   }
+   .prefoot2 > div:nth-child(3){
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items:flex-end;
+    
+   }
+  
+   .prefoot2  div:nth-child(4) {
+     display: flex;
+     flex-direction: row;
+     justify-content:flex-start;
+     align-items:center;
+   
+   }
+   
+   .prefoot2 > div:nth-child(4) > svg{
+     cursor: pointer;
+     margin: 0.7vmax;
+     fill: rgba(138, 138, 138, 0.705);
+   }
+   .prefoot2 > div:nth-child(4) > svg:hover{
+     fill: rgb(94, 94, 94);
+   }
+

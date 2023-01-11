@@ -1,0 +1,9 @@
+.videos
+{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     padding: 1vmax;
+     flex-wrap: wrap;
+     margin: auto;
+}
