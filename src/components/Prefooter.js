@@ -48,7 +48,7 @@ const Footer = () => {
               </div>
               
              <div>
-                    <p><b>FOLLOW MI</b></p><span>We want to hear from you!</span>
+                    <p><b>FOLLOW ADDLIGHT</b></p><span>We want to hear from you!</span>
                     
              </div>
 
